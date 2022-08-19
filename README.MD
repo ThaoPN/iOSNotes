@@ -14,7 +14,7 @@
 2. Git
 - Git command
 - Git GUI tools
-- Git process: http://pm.greenglobal.vn/articles/git-process/1799
+- Git workflow: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 3. Common libs
 
 ## iOS Matrix Skills
